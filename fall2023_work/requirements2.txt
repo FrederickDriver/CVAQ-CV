@@ -1,0 +1,2 @@
+labelbox==3.54.1
+opencv-python>=4.1.2
